@@ -1,0 +1,392 @@
+=== START PDF: c:\Users\HP\.gemini\antigravity\playground\sonic-andromeda\PSLP Mid Term April 2024.pdf ===
+--- Page 1 ---
+(Please write your Enrolment No. immediately) 
+Paper Code: BS-202 
+Time: 1AHrs. 
+Q.No. 
+Questions 
+I(a) 
+1(b) 
+Note: Attempt Q.No.1 which is compulsory and any two more questions from remaining. 
+1(c) 
+1(d) 
+2(a) 
+2(b) 
+3(a) 
+Apn 
+4(a) 
+4(b) 
+B.TECH PROGRAMMES 
+(UNDER THE AEGIS OF USICT) 
+4h Semester, April, 2024 
+MID TERM EXAMINATION 
+Two bolts are drawn from a box containing 6 good and 8 defective bolts. 
+Find the probability that the second bolt is good if the first one is found 
+to be defective. 
+Find the value of k and mnean value ofN. If X is continuous random 
+variable with probability density function given by 
+() 
+IfX and Y are jointly distributed random variables, then prove that 
+Var(.X+Y= Var() + Var(Y) + 2Cov.Y. ) 
+What is the Central Limit theorem & why it is useful? 
+A variate X has the probability distribution function 
+(i) 
+Subject: Probability, Statisties and Linear Programming 
+Max. Marks: 30 
+-3 
+I/6 
+f)=kx (0sr<2)| 
+=2k (2sxs4) 
+I/2 
+P(x): 
+Then find the expectation E(x) and E(x'), hence evalúate E(2x 
+Ehrolment No. 
+0 
+deviation 
+I/3 
+In a sample of 1000 cases. the mean of a certain test is 14 and đeviation 
+is 2.5. Assuming the distribution to be normal. find 
+How many students score betweến 12 and I5? 
+How many score below 8? 
+(iii) 
+How many score above 16? 
+Thedoin Rrobability distribution of two random variables X and Y is 
+givgr by P(X=,Y=1)=I3. PX=1. Y=-l) = |/B and P(X=1. '=) =1/3 
+inf 
+the marginal distributions of .Y and Y. 
+(iü) the conditional probabilities distribution of X. given by Y=1. 
+Find the moment generating function 
+of the exponential distribution 
+f(x) --e 
+-e.0<xso, I>0, hence find its mean and Standard 
+An insurance company found that 
+only 0.01% of the population is 
+involved in a certain type of accident each year. If its 1000 policy holders 
+were randomly selected from the population, what is the probability that 
+not more than two of its clients are involved in such an accident next 
+year? (given that e= ).9048) 
+Max. 
+Marks 
+X is the variate wvith mean 30 and Standard deviation 5, then find the 
+Probability for (i) 26 < X < 40 (ii)- 30>$ 
+Wallah 
+2.5 
+COI 
+2.5 
+COI 
+CO(s) 
+2.5 
+CO2 
+5.0 
+COI 
+5.0 
+CO2 
+5.0 
+5.0 
+5.0 
+CO2 
+COI 
+8375818044 
+CO2 
+
+=== END PDF: c:\Users\HP\.gemini\antigravity\playground\sonic-andromeda\PSLP Mid Term April 2024.pdf ===
+
+=== START PDF: c:\Users\HP\.gemini\antigravity\playground\sonic-andromeda\PSLP Mid Term March 2025.pdf ===
+--- Page 1 ---
+(Plcase write your Enrolment No. Immediately) 
+Paper Code: BS-202 
+Time: 1Hrs. 
+Q. No. 
+1(a) 
+1(b) 
+Note: Attempt Q. No. I which is compulsory and any two morc questions from the remaining. 
+1(c) 
+1(d) 
+2(a) 
+2(b) 
+3(a) 
+3(b) 
+4(a) 
+4(b) 
+B. TECH PROGRAMMES (UNDER TUE AEGIS OF USICT) 
+Fourth Semester, March, 2025 
+Mid-Term Examination- 2025 
+Question 
+Find the binomial distribution for which mean = 2(variancc) and mean 
+variance=3, and find P (X s3). 
+A manufacturer produces medicine bottles and inds that 0. 1% of bottles 
+arc defective. The bottles are packed in boxes containing 500 bottles. Find |2.5] 
+that in 100 such boxes are expected to contain no defcctive bottles. 
+Calculate the covariance of the following pairs of observations of the 
+variables X and Y (15,44), (20,43), (25,45), (30,37), (40,34), (50, 37). 
+The probability density function of a variate X is 
+2 
+Find k so that f(x, y) 
+= kxy, 1 <xsys2will be a joint probability 
+|2.5] 
+density function. 
+X: 
+(0 
+1 
+P(X): K 
+3K 
+Find (i) P(X<4) (ii) P(3 < X s6) (iii) 
+What will be the minimum 
+value of k so that P(X s 2) >3. 
+10 
+SK 
+I8 
+(i) Find E[Y|X=1]. 
+3 
+Enrollmen No 
+7K 
+9K 
+14 
+A sample of 100 dry battery cells was tested to find the length of life 
+produccd the following result, u- 12 hours and variance - 3 hours. If the 
+data is normally distributed, what percentage of battery cells are expected 
+to haye a life of (i) more than 15 hours (ii) less than 6 hours (iii) between 
+10 and 14 hours? (Given that P(0<<l) = 0.3413, P(0<z<0.67) = 
+0.2487.P(0 <z<2)0.4772) 
+12 
+4 
+Find the eoefficient of correlation for 6 college students who got the 
+following percentage of marks in Economics and Statistics: 
+Subject: Probability. statistics, and linear prog 
+Max. Marks: 30 
+There are three bags: the First contains I white, 2 red, and 3 black balls. 
+the second contains 2 white,3 red, and I black balls, and the third contains 
+3 white,l red, and 2 black balls. Two balls are drawn trom a bag choscn 
+15] 
+at random. These are found to be one white and one red. Find the 
+probability that the balls so drawn came from the second bag. 
+|Economics 
+Statistics 
+(a) Three fair of coins are tossed. Let X denote the uumber of heads on 
+the first two coins, Let Y denote the number of heads on the last two coins. 
+Then (i) Find the joint distribution of X and Y. 
+18 
+5 
+11K 
+24 
+0, otherwise. 
+F (x. y) =+y, where 0 S x 
+1,0 sy s1 
+6 
+13K 
+22 
+6 
+26 
+30 
+30 
+(b) The probability density function of a continuous bivariate distribution 
+is given by 
+Marks 
+CO 
+36 
+|2.5] 
+CO1 
+() 
+Find the marginal distributions(ii)Find the correlation coefficient of X 
+and Y. 
+[2.5| 
+|5) 
+CO1 
+CO2 
+CO2 
+CO1 
+CO1 
+CO2 
+C02 
+8375818044 
+CO2 
+
+=== END PDF: c:\Users\HP\.gemini\antigravity\playground\sonic-andromeda\PSLP Mid Term March 2025.pdf ===
+
+=== START PDF: c:\Users\HP\.gemini\antigravity\playground\sonic-andromeda\PSLP Mid Term May 2023.pdf ===
+--- Page 1 ---
+(Please write your Enrolment No. immediately) 
+Paper code: BS-202 
+Time: 1½ Hrs. 
+B.TEÇH PROGRAMMES (UNDER THE AEGIS OF USICT) 
+Fourth Secmester, May, 2023 
+MID TERM EXAMINATION 
+Note: Attempt Q. No. 1 which is compulsory and any two more questions from remaining. 
+defective bulbs in a total of S00 bulbs. 
+Q1. (a) Ifone out of every 10 bulbs are defective. Find the mean and standard deviation for the distribution of 
+) 
+Find K so that f(*, y) = K(r+y), 0 <x<l, and 0< y<l 
+isajoint probability đensity Function. 
+(c) Calculate the covariance of the following pairs of observations of the variables X and Y 
+(1,6)(2,9).(3,6), (4,7),.(5,8), (6,5).(7, 12), (8,3), (9,17), (10,1). 
+(d) If the probability of a bad reaction from a certain injection is 0.001. Find the chance that out of 
+1000 individuals more than two will have a bad reaction. 
+Subject: Probability, Statistics and Lincar programming 
+Max. Marks:30 
+[Kx 
+s)-}ı0-*);:5sx<l0 
+of the distribution? Given that 
+Apn 
+(i) Find the value of K, (i) Mean of X (i) p(S <X<12) 
+2. () In a toy factory, machines A, B, Cmanufactures respectively 25%, 35% and 40% of total. Of their outputs 
+5,42 percents are respectively defective. A toy is drawn at random from the total production. What is the 
+probability that the toy is drawn is defective? Also, the probability that it was manufactured by machige A. 
+(b) X isa cotinuous random variable with probability density function given by 
+X (ages of 
+23 
+Boys) 
+Y (ages of 
+Giris) 
+:0sx<5 
+Q3.(a) In a normal distribution ,7% of the items are under 35 and $9% are under 63. Find the mean and S.D. 
+18 
+;othewise 
+P(0szs0.18) = 0.07, P (0ss148) >0.43, P(0 Sz sI.23) = 0.39. 
+(b) The ages of Boys and Girls and are given in the following table. calculate the coefficient of corelation 
+betwcen Xand Y 
+(i)Find the joint distribution of X and Y 
+Enrolment No. 
+27 
+22 
+28 
+23 
+(ü)Find the conditional distribution of Y given that X=1 
+29 
+24 
+ing 
+Waliah 
+30 
+25 
+(2.5) 
+(2.5) 
+(2.5) 
+(2.5) 
+a375R18044 
+Q4. (a) Three fairs of coins are tossed. Let X denote the number of heads on the first two coins, LeY denote the 
+nùmber of tails on the last two coins. Then 
+(5) 
+(5) 
+(5) 
+(5) 
+(b) An electronics company manufactures resistors that have a mcan resistance of 100 ohms and a standard 
+deviation of 10 ohms. The distribution of resistance is normal. Find the probability that a random sample of 
+n25 resistors will have an average of fewer than 95 ohms. Given that P(Z>2.5) = 0.4938 
+(5) 
+
+=== END PDF: c:\Users\HP\.gemini\antigravity\playground\sonic-andromeda\PSLP Mid Term May 2023.pdf ===
+
+=== START PDF: c:\Users\HP\.gemini\antigravity\playground\sonic-andromeda\PSLP Mid Term November 2023.pdf ===
+--- Page 1 ---
+Total No. of Pages: 1. 
+Programme: B.Tech (AIML/AI&DS) 
+Paper Code: AIMLJAI&DS-209 
+Time: One and Half Hours 
+Note: 
+Question no. 1 is compulsory 
+All questions carry equal marks 
+Attempt any two questions from the remaining questions 
+Only scientific calculator is allowed 
+1(a) 
+1 (b) 
+1(c) 
+1 (d) 
+1 (e) 
+2 (a) 
+3 (a) 
+3 (b) 
+Define probability space with example. 
+is the probability that the number 4 has appeared at least once. 
+Write a short note on skewness of a distribution. 
+() 
+A die is thrown twice and the sum of the number appearing is observed to be 6. What 
+(i) 
+Mid-Term Examination -Nov 2023 
+X is a Poisson variable and it is found that the probability at X=2 is 2/3 of the 
+probability at X=1. Find the probability at X=3. 
+Find the moment generating function (m.g.f. about origin) of the exponential 
+distribution f(x) =ee, 0sxseo,co0. 
+Find: 
+P(r) = (*/15 
+(0) 
+A factory has 2 plants. Records shows that the plan 1 produces 30% and plant 
+produces 70% items. Further 5% of the itens produced by plant 1 are defective while 
+1% produced by plant 2 are defective. If a defective it:m is drawn at random, find the 
+probablity that the defective item was produced by: 
+Plant 1 
+(ii) 
+Plant 2 
+2 (b) 
+A random variable X has the following probabiy mass function: 
+0 
+x= 1,2,3,4,5 
+Question 1 
+otherwise 
+P{X=1 or 2) 
+Paper Name: Probability, Statistics & Linear Algebra 
+Maximum Marks: 30 
+P{1/2 < X < 5/2 | X>1) 
+2 
+1 
+Student Name: 
+Question 2 
+14 
+Question 3 
+Fit a binonial distribution for the following data and compare the theoretica 
+frequencies with actual once. 
+2 
+Enrolment No. .J.S6ll62.2 
+20 
+Semester: Third Semester 
+3 
+34 
+4 
+22 
+5 
+eo distribution, the mean is 10, variance h0, Y1 151 and B, is 4. Obtain the first 
+four moments about origin. Conment upon the nature of distribuion 
+8 
+5 
+5 
+5 
+2 
+5 
+2 
+2 
+2 
+
+--- Page 2 ---
+4 (a) 
+If the heights of 300 students are normally distributed with mean 68 inch and 
+standard deviation 3 inch. How many students have height: 
+() 
+Greater than 72 inches 
+Between 65 and 71 inches 
+Given P(zs1.33=0.4082), P(zs1=0.3413), P(z21-0.3413) 
+4 (b) 
+Obtain the rank correlation coeficient between the variables X and Y from the 
+following pairs of observed data. 
+50 
+110 
+Question4 
+55 
+110 
+65 
+115 
+50 
+125 
+140 
+55 
+60 
+50 
+65 
+115 
+130 
+120 
+70 
+115 
+75 
+160 
+5 
+5 
+
+=== END PDF: c:\Users\HP\.gemini\antigravity\playground\sonic-andromeda\PSLP Mid Term November 2023.pdf ===
