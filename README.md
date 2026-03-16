@@ -26,7 +26,7 @@ A premium, interactive study portal for GGSIPU B.Tech Semester IV mid-term prepa
 | ECC-210 | Microprocessors and Microcontrollers | 🔜 Coming Soon |
 | ECC-212 | Digital Communications | 🔜 Coming Soon |
 | ECC-214 | Analog Electronics II | 🔜 Coming Soon |
-| HMC-208 | Universal Human Values | 🔜 Coming Soon |
+| ECC-216 | Electromagnetic Field Theory | 🔜 Coming Soon |
 
 ---
 
